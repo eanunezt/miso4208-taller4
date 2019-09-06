@@ -1,0 +1,19 @@
+{
+  "name": "cypress-ripper",
+  "version": "1.0.0",
+  "description": "Taller 4 MISO4208 parte 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "ripper"
+  ],
+  "author": "eanunezt",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
+}

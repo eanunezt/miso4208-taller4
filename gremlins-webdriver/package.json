@@ -1,0 +1,20 @@
+{
+  "name": "gremlins-webdriver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/webdriverio/bin/wdio wdio.conf.js"
+  },
+  "author": "Sebastian Sierra",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.4",
+    "webdriverio": "^4.14.4"
+  },
+  "devDependencies": {
+    "wdio-jasmine-framework": "^0.3.2",
+    "wdio-selenium-standalone-service": "0.0.9",
+    "wdio-spec-reporter": "^0.1.2"
+  }
+}
